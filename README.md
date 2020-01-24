@@ -1,13 +1,9 @@
-# CS410 MP2---Search Engines
+# Search Engines
 
-In this 4-part MP, you will get familiar with building and evaluating Search Engines.
-
-All MPs are checked on [EWS machines](https://answers.uillinois.edu/illinois.engineering/page.php?id=81727).
-While we cannot ensure that all operating systems and configurations are covered in the instructions, students can connect to these Linux-based workstations to complete assignments.
+This code is part of assigtnment for Text Information Systems course at the University of Illinois at Urbana-Champaign
 
 # Part 2
 
-## Due: Oct 4, 2019 at 11:59 pm
 
 In this part, you will use the MeTA toolkit to do the following:
 - create a search engine over a dataset
