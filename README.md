@@ -2,9 +2,6 @@
 
 This code is part of assigtnment for Text Information Systems course at the University of Illinois at Urbana-Champaign
 
-# Part 2
-
-
 In this part, you will use the MeTA toolkit to do the following:
 - create a search engine over a dataset
 - investigate the effect of parameter values for a standard retrieval function
@@ -190,10 +187,4 @@ You don’t have to use R; you can even write a script to calculate the answer y
 The output of the significance test will give you a p-value. If the p-value is less than 0.05 (our chosen significance level), then we will say that there is a significant difference between the two average precision lists. That means that there is less than a 5% chance that the difference in the mean of the AP scores is due to random fluctuation.
 
 Write the p-value in a file called **significance.txt**. 
-***Do not include anything else in the file, just this number!***
 
-## Grading
-
-Your grade will be based on:
-- passing the pipeline on gitlab
-- uploading singificance.txt with the p-value
